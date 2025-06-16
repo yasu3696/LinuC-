@@ -60,5 +60,4 @@
 
 ## dpkgツールの設定ファイル
 
-| **/etc/dpkg/dpkg.cfg** |
-|--|
+**/etc/dpkg/dpkg.cfg**
