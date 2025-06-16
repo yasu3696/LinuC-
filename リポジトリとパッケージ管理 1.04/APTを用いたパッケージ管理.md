@@ -45,7 +45,9 @@
 
 <details>
 <summary>
+ 
 ### apt-getの主なサブコマンド
+
 </summary>
  
 |  |  | 
