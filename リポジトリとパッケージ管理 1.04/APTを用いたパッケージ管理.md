@@ -30,3 +30,8 @@
 
 
 <span style="color: red;">このテキストは赤色です</span>.
+<span style="color: blue;">このテキストは青色です。</span>
+
+<span style="color: #00FF00;">このテキストは緑色です。</span>
+
+<span style="color: rgb(255,0,0);">このテキストは赤色です。</span>
