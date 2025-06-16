@@ -64,7 +64,7 @@
 
 
 | <u>deb</u> | <u>http://archive.ubuntu.com/ubuntu</u> | <u>focal</u> | <u>multiverse</u> |
-|--|--|--|--|--|
+|--|--|--|--|
 | &nbsp;1 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2 | &nbsp;&nbsp;&nbsp;3 | &emsp;&emsp;&emsp;4 |  
 
 |  |  |
