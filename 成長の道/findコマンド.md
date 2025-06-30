@@ -17,6 +17,7 @@
 | `-name "*.txt"` | 名前に `.txt` を含む | `find . -name "*.txt"` |
 | `-type f` | 通常ファイル | `-type d` → ディレクトリ |
 | `-size +1M` | サイズが 1MB より大きい | `-size -100k` は100KB未満 |
+| atime | アクセス日を検索 |  |
 | `-mtime -7` | 7日以内に更新 | `+30` なら30日より古い |
 | `-user yasuda` | 所有者が `yasuda` |
 
