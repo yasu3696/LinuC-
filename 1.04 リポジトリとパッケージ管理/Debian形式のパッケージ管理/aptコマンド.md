@@ -1,7 +1,7 @@
 Debian形式のパッケージファイルの名付け<br>
 例<br>
 turee_1.7.05-5_amd64.deb <br>
-&nbsp; &nbsp;1 &nbsp;2 &nbsp;&nbsp; 3 &nbsp;&nbsp;
+ー１ー ー２ー  ー３ー ー４ー
 
 # APTを用いたパッケージ管理
 <br>
