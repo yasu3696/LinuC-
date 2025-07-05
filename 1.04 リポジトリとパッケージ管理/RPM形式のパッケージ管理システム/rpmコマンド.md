@@ -43,7 +43,7 @@
 | `--checksig` | `.rpm` に署名があるか検証 | `rpm --checksig nginx.rpm` |
 | `--nosignature` | 署名を無視して処理 | `rpm -ivh --nosignature nginx.rpm` |
 
-🔍 背景：MD5とは？
+🔍 背景：MD5とは？<br>
 MD5 はファイルの整合性を確認するための ハッシュ関数（指紋のようなもの）。
 .rpm パッケージには、その内容の改ざんを検出するために MD5 チェックサムが含まれています。
 RPMは通常、インストール時や検証時にこのチェックサムを確認します。
