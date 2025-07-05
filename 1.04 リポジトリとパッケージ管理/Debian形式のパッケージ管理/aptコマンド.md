@@ -15,7 +15,7 @@
 | apt-cache | パッケージの情報を調べたり検索する |
 | apt-file | 指定したファイルを含んでいるパッケージを検索する |
 
-### ⚠️ `apt-get`と`aptcache`は使うことは推奨されていない（apt-getとaptcacheの働きは`apt`でまとめられるから）
+### ⚠️ `apt-get`と`apt-cache`は使うことは推奨されていない（apt-getとaptcacheの働きは`apt`でまとめられるから）
 
 <br>
 
