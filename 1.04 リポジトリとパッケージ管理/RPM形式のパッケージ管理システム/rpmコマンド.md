@@ -14,7 +14,7 @@
 | `-i` | パッケージを新規インストール | `rpm -ivh nginx.rpm` |
 | `-U` | アップグレード（未インストールならインストール）| `rpm-Uvh nginx.rpx` |
 | `F`（--freshen） | パッケージがインストールされている場合アップグレード（なければ無視） |  |
-| `-e` | パッケージを削除（erase）| `rpm -e niginx` |
+| `-e` （erase） | パッケージを削除 | `rpm -e niginx` |
 
 <br>
 
