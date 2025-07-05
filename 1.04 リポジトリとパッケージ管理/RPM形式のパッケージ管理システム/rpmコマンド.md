@@ -24,7 +24,7 @@
 |------------|--------|----------|
 | `-q` (--query) |クエリ（情報取得）| `rpm -q nginx` |
 | `-qi` | パッケージの詳細表示 | `rpm -qi nginx` | 
-| `-ql` | インストールされたファイル一覧 | `rpm -ql nginx` | 
+| `-ql` | インストールされた（パッケージに含まれる）ファイル一覧 | `rpm -ql nginx` | 
 | `-qf` | 指定ファイルが属するパッケージ表示 | `rpm -qf /usr/bin/nginx` |
 | `-qR` |  依存しているパッケージを表示 | `rpm -qR nginx` |
 | `-qp` | ローカル `.rpm` の情報確認 |`rpm -qpi somefile.rpm` |
